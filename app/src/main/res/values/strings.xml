@@ -2,4 +2,5 @@
     <string name="app_name">Sarvisin</string>
 
     <string name="email_valid">silakan isi alamat email dengan tepat!</string>
+    <string name="password_length">kata sandi harus mengandung minimal 6 karakter</string>
 </resources>
