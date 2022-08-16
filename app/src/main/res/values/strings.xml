@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sarvisin</string>
+
+    <string name="email_valid">silakan isi alamat email dengan tepat!</string>
 </resources>
