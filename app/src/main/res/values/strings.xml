@@ -3,4 +3,19 @@
 
     <string name="email_valid">silakan isi alamat email dengan tepat!</string>
     <string name="password_length">kata sandi harus mengandung minimal 6 karakter</string>
+    <string name="login_message">Selamat Datang di Sarvis.in!</string>
+    <string name="signup_message">Silakan lengkapi data Anda di bawah ini!</string>
+    <string name="welcome_message">Sarvis.in adalah aplikasi untuk menyewa jasa servis peralatan elektronik, yang bisa dipesan kapanpun dan di manapun</string>
+    <string name="login_text">Sudah mempunyai akun?<font fgcolor="#2196F3"> Masuk</font></string>
+    <string name="signup_text">Belum mempunyain akun?<font fgcolor="#2196F3"> Daftar </font></string>
+
+    <string name="image_description">deskripsi gambar</string>
+    <string name="welcome_logo">logo selamat datang</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="tv_title">Nama</string>
+
+    <string name="btn_login">Masuk</string>
+    <string name="btn_signup">Daftar</string>
 </resources>
