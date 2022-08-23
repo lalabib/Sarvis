@@ -13,9 +13,27 @@
     <string name="welcome_logo">logo selamat datang</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="location">Jakarta Selatan</string>
+    <string name="name">User</string>
+    <string name="user_email">user@gmail.com</string>
+    <string name="service_name">Servis AC</string>
 
     <string name="tv_title">Nama</string>
+    <string name="upload_hint">*Silahkan tambahkan foto anda</string>
+    <string name="name_hint">*Namanya</string>
+    <string name="service_hint">*Jenis Servis</string>
+    <string name="location_hint">*Kota</string>
+    <string name="no_hint">*No WhatsApp</string>
+    <string name="wa_hint">*pastikan diawali dengan +62xxxxxxxxxx</string>
+    <string name="description_hint">*Deskripsi</string>
+    <string name="show_more">Lihat Lebih banyak</string>
+    <string name="show_less">Lihat lebih sedikit</string>
+    <string name="submit_success">Data berhasil dikirim</string>
+    <string name="submit_error">Data gagal dikirim</string>
 
     <string name="btn_login">Masuk</string>
     <string name="btn_signup">Daftar</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_upload">Unggah</string>
+
 </resources>
